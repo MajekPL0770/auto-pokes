@@ -41,7 +41,7 @@ const config = require("./config.json");
         const btn = document.querySelector(
           "div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb > div._b5a > div._b5a > div:nth-child(1) span.d2edcug0.hpfvmrgz.qv66sw1b.c1et5uql.lr9zc1uh.a8c37x1j.keod5gw0.nxhoafnm.aigsh9s9.d3f4x2em.fe6kdd0r.mau55g9w.c8b282yb.iv3no6db.jq4qci2q.a3bd9o3v.lrazzd5p.bwm1u5wc span.a8c37x1j.ni8dbmo4.stjgntxs.l9j0dhe7.ltmttdrg.g0qnabr5"
         );
-        if (btn.innerText == "Odpowiedz na zaczepkę") {
+        if (btn.innerText == config.textReplayButton) {
           btn.click();
         }
       });
