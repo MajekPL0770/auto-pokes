@@ -1,5 +1,5 @@
 {
   "email": "email ore phone number heare",
   "password": "password heare",
-  "replayButtonText": ""
+  "textReplayButton": "Odpowiedz na zaczepkę" //replay button text frome facebook page different for each language 
 }
