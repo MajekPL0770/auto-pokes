@@ -1,0 +1,25 @@
+{
+  "name": "auto-pokes",
+  "version": "1.0.0",
+  "description": "Automaticlly Responds to Facebook Pokes",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajekPL0770/auto-pokes.git"
+  },
+  "keywords": [
+    "facebook",
+    "auto",
+    "pokes",
+    "zaczepki"
+  ],
+  "author": "! Majek_PL#7931",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajekPL0770/auto-pokes/issues"
+  },
+  "homepage": "https://github.com/MajekPL0770/auto-pokes#readme"
+}
